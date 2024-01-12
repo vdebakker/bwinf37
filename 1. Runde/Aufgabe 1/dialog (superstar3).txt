@@ -1,0 +1,10 @@
+Folgt Rinus Rineke?          Nein
+Folgt Sjoukje Peter?         Nein
+Folgt Jitse Pia?             Nein
+Folgt Jorrit Edsger?         Ja
+Folgt Rinus Sjoukje?         Nein
+Folgt Jitse Edsger?          Ja
+Folgt Rinus Edsger?          Ja
+Folgt Edsger Jitse?          Ja
+
+Es gibt keinen Superstar

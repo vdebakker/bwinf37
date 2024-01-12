@@ -1,0 +1,6 @@
+Folgt Justin Selena?       Nein
+Folgt Hailey Justin?       Ja
+Folgt Selena Justin?       Ja
+Folgt Justin Hailey?       Nein
+
+Justin ist ein Superstar!

@@ -1,0 +1,8 @@
+Lisas Startzeit: 7:27:60 Uhr
+Treffzeit: 7:31:26 Uhr
+Koordinaten Treffpunkt (x, y): (0m, 719m)
+Lisa benötigt 3min 26sec
+Lisa läuft 860m
+Sie läuft über die Knoten: 
+  Punkt: (633, 189)  L (Lisas Haus)
+  Punkt: (535, 410)  Polygon: P1

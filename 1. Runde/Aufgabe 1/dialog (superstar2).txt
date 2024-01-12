@@ -1,0 +1,12 @@
+Folgt Hoare Codd?              Ja
+Folgt Turing Dijkstra?         Ja
+Folgt Knuth Codd?              Nein
+Folgt Dijkstra Knuth?          Nein
+Folgt Dijkstra Turing?         Nein
+Folgt Hoare Dijkstra?          Ja
+Folgt Dijkstra Hoare?          Nein
+Folgt Knuth Dijkstra?          Ja
+Folgt Codd Dijkstra?           Ja
+Folgt Dijkstra Codd?           Nein
+
+Dijkstra ist ein Superstar!

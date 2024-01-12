@@ -1,0 +1,37 @@
+Ergebnisse
+
+Max. Anzahl Widerstände: k= 1
+Ziel: 500 Ohm | Schaltung: 470 | Erreicht: 470.0000 Ohm | Differenz: 30.0000 Ohm
+Ziel: 140 Ohm | Schaltung: 150 | Erreicht: 150.0000 Ohm | Differenz: -10.0000 Ohm
+Ziel: 314 Ohm | Schaltung: 330 | Erreicht: 330.0000 Ohm | Differenz: -16.0000 Ohm
+Ziel: 315 Ohm | Schaltung: 330 | Erreicht: 330.0000 Ohm | Differenz: -15.0000 Ohm
+Ziel: 1620 Ohm | Schaltung: 1500 | Erreicht: 1500.0000 Ohm | Differenz: 120.0000 Ohm
+Ziel: 2719 Ohm | Schaltung: 2700 | Erreicht: 2700.0000 Ohm | Differenz: 19.0000 Ohm
+Ziel: 4242 Ohm | Schaltung: 3900 | Erreicht: 3900.0000 Ohm | Differenz: 342.0000 Ohm
+
+Max. Anzahl Widerstände: k= 2
+Ziel: 500 Ohm | Schaltung: parallel(4700, 560) | Erreicht: 500.3802 Ohm | Differenz: -0.3802 Ohm
+Ziel: 140 Ohm | Schaltung: parallel(150, 2200) | Erreicht: 140.4255 Ohm | Differenz: -0.4255 Ohm
+Ziel: 314 Ohm | Schaltung: parallel(6800, 330) | Erreicht: 314.7265 Ohm | Differenz: -0.7265 Ohm
+Ziel: 315 Ohm | Schaltung: parallel(6800, 330) | Erreicht: 314.7265 Ohm | Differenz: 0.2735 Ohm
+Ziel: 1620 Ohm | Schaltung: seriell(1500, 120) | Erreicht: 1620.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 2719 Ohm | Schaltung: 2700 | Erreicht: 2700.0000 Ohm | Differenz: 19.0000 Ohm
+Ziel: 4242 Ohm | Schaltung: seriell(330, 3900) | Erreicht: 4230.0000 Ohm | Differenz: 12.0000 Ohm
+
+Max. Anzahl Widerstände: k= 3
+Ziel: 500 Ohm | Schaltung: parallel(seriell(180, 820), 1000) | Erreicht: 500.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 140 Ohm | Schaltung: parallel(parallel(820, 2700), 180) | Erreicht: 139.9494 Ohm | Differenz: 0.0506 Ohm
+Ziel: 314 Ohm | Schaltung: parallel(seriell(1800, 4700), 330) | Erreicht: 314.0556 Ohm | Differenz: -0.0556 Ohm
+Ziel: 315 Ohm | Schaltung: parallel(parallel(1800, 560), 1200) | Erreicht: 315.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 1620 Ohm | Schaltung: seriell(1500, 120) | Erreicht: 1620.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 2719 Ohm | Schaltung: seriell(seriell(1000, 220), 1500) | Erreicht: 2720.0000 Ohm | Differenz: -1.0000 Ohm
+Ziel: 4242 Ohm | Schaltung: seriell(parallel(2700, 390), 3900) | Erreicht: 4240.7767 Ohm | Differenz: 1.2233 Ohm
+
+Max. Anzahl Widerstände: k= 4
+Ziel: 500 Ohm | Schaltung: parallel(seriell(180, 820), 1000) | Erreicht: 500.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 140 Ohm | Schaltung: parallel(seriell(parallel(180, 390), 120), 330) | Erreicht: 140.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 314 Ohm | Schaltung: parallel(seriell(parallel(470, 1200), 120), 1000) | Erreicht: 313.9993 Ohm | Differenz: 0.0007 Ohm
+Ziel: 315 Ohm | Schaltung: parallel(parallel(1800, 560), 1200) | Erreicht: 315.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 1620 Ohm | Schaltung: seriell(1500, 120) | Erreicht: 1620.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 2719 Ohm | Schaltung: seriell(seriell(parallel(180, 220), 820), 1800) | Erreicht: 2719.0000 Ohm | Differenz: 0.0000 Ohm
+Ziel: 4242 Ohm | Schaltung: seriell(seriell(parallel(180, 120), 3900), 270) | Erreicht: 4242.0000 Ohm | Differenz: 0.0000 Ohm

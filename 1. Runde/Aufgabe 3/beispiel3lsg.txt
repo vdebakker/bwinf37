@@ -1,0 +1,2 @@
+Al sollte die Zahlen: 100, 240, 340, 440, 520, 580, 660, 720, 860, 960 wählen.
+Er muss 2160 € auszahlen und macht einen Gewinn von 340 €.

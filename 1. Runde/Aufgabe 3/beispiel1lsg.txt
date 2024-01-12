@@ -1,0 +1,2 @@
+Al sollte die Zahlen: 50, 145, 240, 335, 430, 525, 630, 735, 840, 945 wählen.
+Er muss 4950 € auszahlen und macht einen Gewinn von 25 €.
